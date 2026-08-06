@@ -4,7 +4,7 @@ public class Dowhile {
         do {
             int j = 1;
             do {
-                System.out.print(j);
+                System.out.println(j);
                 j++;
             } while (j <= 5);
 
